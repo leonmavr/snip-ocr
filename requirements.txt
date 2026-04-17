@@ -1,0 +1,7 @@
+PyQt6
+mss
+opencv-python-headless
+pytesseract
+pyperclip
+numpy
+# Note: On Ubuntu , install system tesseract system-wise (apt install tesseract-ocr)
